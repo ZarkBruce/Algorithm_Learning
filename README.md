@@ -12,7 +12,7 @@ A repository for recording my algorithm learning process.
 
 ## Online Judgement
 [Leetcode oj](https://leetcode-cn.com/)  
-[杭电oj](http://acm.hdu.edu.cn/)  
+[杭电 oj](http://acm.hdu.edu.cn/)  
 [UVa oj](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=26)  
 [Tsinghua oj](https://dsa.cs.tsinghua.edu.cn/oj/index.shtml)  
 
